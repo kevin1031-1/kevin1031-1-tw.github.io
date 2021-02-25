@@ -7,7 +7,7 @@
 ![美乃滋](https://news.cts.com.tw/photo/cts/201908/201908161971533_l.jpg)
 
 ```c
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
   int n;
@@ -15,3 +15,4 @@ int main()
   scanf("%d",&n);
   printf("%d",n*n*n);
 }
+```
